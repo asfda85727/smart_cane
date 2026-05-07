@@ -1,0 +1,5 @@
+.env
+*.json
+venv/
+tts_cache/
+__pycache__/
